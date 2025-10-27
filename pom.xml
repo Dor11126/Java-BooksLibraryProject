@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.dor_cohen</groupId>
+  <artifactId>BooksLibraryFull</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>AlgorithmModule</module>
+    <module>AppModule</module>
+    <module>NetworkModule</module>
+    <module>UIClientApp</module>
+  </modules>
+</project>
